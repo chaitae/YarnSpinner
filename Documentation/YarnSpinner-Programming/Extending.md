@@ -23,9 +23,9 @@ This document intends to demonstrate to a developer how they can add new functio
 
 
 ## Creating a custom command
-Creating a custom command is a simple two step procedure.i
+Creating a custom command is a simple two step procedure.
 
-1. We need to get the dialogue object that's in use, then regiser a new function for it.
+1. We need to get the dialogue object that's in use, then register a new function for it.
 ```
     // get the Dialogue object 
 	// varstorage_implementation is the object that handles variable storage - it's not important in this example
